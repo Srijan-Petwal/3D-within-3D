@@ -1,0 +1,24 @@
+
+html,body,#root{
+    margin: 0;
+    overflow: hidden;
+    position: fixed;
+}
+
+Canvas{
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    touch-action: none;
+    
+}
+
+.visualizer-screen iframe{
+    width: 1045px;
+    height: 700px;
+    border: none;
+    border-radius: 34px;
+    background-color: black;
+  
+    
+}
