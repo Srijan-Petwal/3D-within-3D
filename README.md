@@ -57,7 +57,7 @@
 ## 📦 Installation (for local development)
 
 ```bash
-git clone https://github.com/srijan123/3D-within-3D.git
+git clone https://github.com/Srijan-Petwal/3D-within-3D.git
 cd 3D-within-3D
 npm install
 npm run dev
