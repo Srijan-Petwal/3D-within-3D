@@ -1,7 +1,7 @@
 # 🖥️ 3D-within-3D
 
 ![3D within 3D Banner](images/3d-within-3d.gif) <!-- Replace with an actual GIF or screenshot -->
-
+>[!TIP]
 > 🚀 A trippy 3D experience where a **3D game runs inside a 3D MacBook**, inside your real laptop screen.  
 > Yes — it’s **a game within a 3D laptop**, being viewed on a real laptop.  
 > That’s recursion for the frontend devs. 😉
